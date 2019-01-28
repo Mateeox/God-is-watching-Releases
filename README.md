@@ -20,7 +20,7 @@
   * Poziomy trudności
 ### Description
 
-Liniowa mapa, bez poziomów, z różnym ukształtowaniem terenu.
+Liniowa mapa, z różnym ukształtowaniem terenu.
 Bohater pokonuje kolejne poziomy, celem jest zakończenie poziomu.
 
 ### Beta
